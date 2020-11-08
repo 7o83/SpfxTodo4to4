@@ -1,0 +1,12 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "packageManager": "npm",
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.11.0",
+    "libraryName": "spfx-todo",
+    "libraryId": "3e0f203e-fb62-40e9-91ec-cd22ccfa23c7",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
